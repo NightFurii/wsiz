@@ -22,6 +22,4 @@ async def main():
 
 if __name__ == '__main__':
     run(main())
-      
-    ssweeper1 = SnowSweeper(uuid.uuid4(), 'Snowdestroy1', 'Bielsko')
-    ssweeper2 = SnowSweeper(uuid.uuid4(), 'Snowdestroy2', 'Krakow')
+    
